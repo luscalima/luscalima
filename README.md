@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 😄
+
+My name is Lucas Lima from Brazil 🇧🇷, I'm Front-End Developer and I've been work on since mid-2019 and currently I'm working at SIASP (BR/RN). As a fan of open source projects, I hope I can contribute a lot to the community and make a lot of content during my career.
 
 <!--
 **LuscaLima/luscalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
