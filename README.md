@@ -23,7 +23,7 @@ In my free time I love to watching movies and series 📺, to reading books and 
   - Idiom: English (deepening);
 
 💡 Future interests:
-  - Python (talvez);
+  - Python (maybe);
 <!--   - IA; -->
 
 #### Reach me through 📫:
