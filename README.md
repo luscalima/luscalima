@@ -20,7 +20,7 @@ In my free time I love to watching movies and series 📺, to reading books and 
   - Paradigm: Functional;
   - Runtimes: Node.js (deepening);
   - SE: Agile methodologies (deepening), Testing, Design Pattern and clean Software Architecture;
-  - Idiom: English (deepening);
+  - Language: English (deepening);
 
 💡 Future interests:
   - Python (maybe);
