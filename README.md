@@ -28,7 +28,7 @@ In my free time I love to watching movies and series 📺, to reading books and 
 
 #### Reach me through 📫:
 
-  - **Just email for now** (log on to github to see)
+  - **Just email for now** (log in to github to see)
 
 <!--
 **LuscaLima/luscalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
