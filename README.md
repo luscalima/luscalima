@@ -1,7 +1,7 @@
 ### Hi there 😄
 
 My name is **Lucas Lima** from Brazil 🇧🇷, I'm Front-End Developer and I've been work on since mid-2019 and currently I'm working at Instruct (BR). As a fan of open source projects, I hope I can contribute a lot to the community and make a lot of content during my career.
-In my free time I love to watching movies and series 📺, to reading books and others stuff 📖 and to listen to music 🎵. By the way, I also like a good beer 🍺.
+In my free time I like study 📝, to watching good movies and series 📺, to reading books and others stuff 📖 and to listen to music 🎵.
 
 #### More about me 🧐:
 
