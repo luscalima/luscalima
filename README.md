@@ -1,31 +1,36 @@
 ### Hi there 😄
 
-My name is **Lucas Lima** from Brazil 🇧🇷, I'm Front-End Developer and I've been work on since mid-2019 and currently I'm working at Instruct (BR). As a fan of open source projects, I hope I can contribute a lot to the community and make a lot of content during my career.
-In my free time I like study 📝, to watching good movies and series 📺, to reading books and others stuff 📖 and to listen to music 🎵.
+My name is **Lucas Lima** from Brazil 🇧🇷, I'm Front-End Developer.
+
+<!-- My name is **Lucas Lima** from Brazil 🇧🇷, I'm Front-End Developer and I've been work on since mid-2019 and currently I'm working at Instruct (BR). As a fan of open source projects, I hope I can contribute a lot to the community and make a lot of content during my career.
+In my free time I like study 📝, to watching good movies and series 📺, to reading books and others stuff 📖 and to listen to music 🎵. -->
 
 #### More about me 🧐:
 
 🤓 Knowledge areas:
-  - Software Engineering (SE), focused on:
-    - Programming;
-    - Agile methodologies;
+<!--   - Software Engineering (SE), focused on: -->
+  - Programming:
+    - Front-end Web;
+<!--     - Agile methodologies; -->
 
 💻 Work with:
-  - Programming Languages (PLs): JavaScript (mainly), HTML and CSS;
+  - Programming Languages (PLs): JavaScript, HTML and CSS;
   - Frameworks: Vue.js (mainly) and React;
-  - Runtimes: Browser (mainly), Node.js (sometimes) and Electron (rarely);
-
-🌱 Currently learning:
+  - Runtimes: Browser (mainly) and Node.js (sometimes);
+<!--   - Runtimes: Browser (mainly), Node.js (sometimes) and Electron (rarely); -->
+🎯 Focusing on
+<!-- 🌱 Currently learning: -->
   - PLs: JS and CSS (deepening);
-  - Paradigm: Functional;
+<!--   - Paradigm: Functional; -->
   - Runtimes: Node.js (deepening);
-  - SE: Agile methodologies (deepening), Testing, Design Pattern and clean Software Architecture;
-  - Language: English (deepening);
-
+  - SE: Testing, Design Patterns and Clean Software Architecture;
+<!--   - SE: Agile methodologies (deepening), Testing, Design Pattern and clean Software Architecture; -->
+<!--   - Language: English (deepening); -->
+<!-- 
 💡 Future interests:
-  - Python (maybe);
-<!--   - IA; -->
-
+ - Python (maybe);
+ - IA;
+ -->
 #### Reach me through 📫:
 
   - **Just email for now** (log in to github to see)
