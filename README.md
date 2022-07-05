@@ -31,9 +31,11 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
  - Python (maybe);
  - IA;
  -->
+<!--
 #### Reach me through 📫:
 
   - **Just email for now** (log in to github to see)
+-->
 
 <!--
 **LuscaLima/luscalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
