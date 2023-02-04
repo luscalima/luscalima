@@ -21,7 +21,6 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
 🎯 Focusing on
 <!-- 🌱 Currently learning: -->
   - PLs: JS and CSS (deepening);
-<!--   - Paradigm: Functional; -->
   - Runtimes: Node.js (deepening);
   - SE: Testing, Design Patterns and Clean Software Architecture;
 <!--   - SE: Agile methodologies (deepening), Testing, Design Pattern and clean Software Architecture; -->
