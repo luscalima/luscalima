@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-My name is **Lucas Lima** from Brazil 🇧🇷, I'm Front-End Developer.
+My name is **Lucas Lima** from Brazil 🇧🇷, I'm Web Developer.
 
 <!-- My name is **Lucas Lima** from Brazil 🇧🇷, I'm Front-End Developer and I've been work on since mid-2019 and currently I'm working at Instruct (BR). As a fan of open source projects, I hope I can contribute a lot to the community and make a lot of content during my career.
 In my free time I like study 📝, to watching good movies and series 📺, to reading books and others stuff 📖 and to listen to music 🎵. -->
@@ -21,7 +21,7 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
 <!--   - Runtimes: Browser (mainly), Node.js (sometimes) and Electron (rarely); -->
 🎯 Focusing on
 <!-- 🌱 Currently learning: -->
-  - PLs: JS and CSS (deepening);
+  - PLs: JS, Python and CSS (deepening);
   - Runtimes: Node.js (deepening);
   - SE: Testing, Design Patterns and Clean Software Architecture;
 <!--   - SE: Agile methodologies (deepening), Testing, Design Pattern and clean Software Architecture; -->
@@ -30,7 +30,10 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
 💡 Future interests:
  - Python (maybe);
  - IA;
- -->
+ --> 
+💡 Current Interests:
+ - Math;
+ - Infra;
 <!--
 #### Reach me through 📫:
 
