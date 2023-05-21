@@ -11,10 +11,11 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
 <!--   - Software Engineering (SE), focused on: -->
   - Programming:
     - Front-end Web;
+    - Back-end Web;
 <!--     - Agile methodologies; -->
 
 💻 Work with:
-  - Programming Languages (PLs): JavaScript, HTML and CSS;
+  - Programming Languages (PLs): JavaScript and Python;
   - Frameworks: Vue.js (mainly) and React;
   - Runtimes: Browser (mainly) and Node.js (sometimes);
 <!--   - Runtimes: Browser (mainly), Node.js (sometimes) and Electron (rarely); -->
