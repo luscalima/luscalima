@@ -16,8 +16,9 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
 
 💻 Work with:
   - Programming Languages (PLs): JavaScript and Python;
-  - Frameworks: Vue.js (mainly) and React;
-  - Runtimes: Browser (mainly) and Node.js (sometimes);
+  - Frameworks: Vue.js, React.js, Nuxt.js e Next.js;
+  - Runtimes: Navegador e Node.js;
+  - Banco de dados: Postgresql;
 <!--   - Runtimes: Browser (mainly), Node.js (sometimes) and Electron (rarely); -->
 🎯 Focusing on
 <!-- 🌱 Currently learning: -->
