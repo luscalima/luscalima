@@ -10,31 +10,31 @@ In my free time I like study 📝, to watching good movies and series 📺, to r
 🤓 Knowledge areas:
 <!--   - Software Engineering (SE), focused on: -->
   - Programming:
-    - Front-end Web;
-    - Back-end Web;
+    - Front-end
+    - Back-end
 <!--     - Agile methodologies; -->
 
 💻 Work with:
-  - Programming Languages (PLs): JavaScript and Python;
-  - Frameworks: Vue.js, React.js, Nuxt.js, Next.js and Django;
-  - Runtimes: Navegador e Node.js;
-  - Banco de dados: Postgresql;
+  - Programming Languages (PLs): JavaScript, Python
+  - Frameworks: Vue.js, React.js, Nuxt.js, Next.js, Django
+  - Runtimes: Browser, Node.js;=
 <!--   - Runtimes: Browser (mainly), Node.js (sometimes) and Electron (rarely); -->
 🎯 Focusing on
 <!-- 🌱 Currently learning: -->
-  - PLs: JS, Python;
-  - Runtimes: Node.js (deepening);
-  - SE: Testing, Design Patterns and Clean Software Architecture;
+  - PLs: JS, Python
+  - SE: Testing, Design Patterns, Software Architecture
 <!--   - SE: Agile methodologies (deepening), Testing, Design Pattern and clean Software Architecture; -->
-<!--   - Language: English (deepening); -->
+🗣️ Languages:
+   - Portuguese (native)
+   - English (intermediate, professional proficiency)
 <!-- 
 💡 Future interests:
  - Python (maybe);
  - IA;
  --> 
 💡 Current Interests:
- - Math;
- - Infra;
+ - Math
+ - Infra
 <!--
 #### Reach me through 📫:
 
